@@ -14,6 +14,7 @@
 		1C5D2F3F23164B4200DB0D3A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1C5D2F3E23164B4200DB0D3A /* Assets.xcassets */; };
 		1C5D2F4223164B4200DB0D3A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C5D2F4023164B4200DB0D3A /* LaunchScreen.storyboard */; };
 		1C5D2F4D23164B4200DB0D3A /* PlanetariumARTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C5D2F4C23164B4200DB0D3A /* PlanetariumARTests.swift */; };
+		C7817CB02341024C00C35D88 /* StarData.csv in Resources */ = {isa = PBXBuildFile; fileRef = C7817CAF2341024C00C35D88 /* StarData.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		1C5D2F4823164B4200DB0D3A /* PlanetariumARTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PlanetariumARTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1C5D2F4C23164B4200DB0D3A /* PlanetariumARTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlanetariumARTests.swift; sourceTree = "<group>"; };
 		1C5D2F4E23164B4200DB0D3A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C7817CAF2341024C00C35D88 /* StarData.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = StarData.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 			children = (
 				1C5D2F3723164B4100DB0D3A /* AppDelegate.swift */,
 				1C4D93DF23179F3500D3B5CD /* art.scnassets */,
+				C7817CAF2341024C00C35D88 /* StarData.csv */,
 				1C5D2F3923164B4100DB0D3A /* ViewController.swift */,
 				1C5D2F3B23164B4100DB0D3A /* Main.storyboard */,
 				1C5D2F3E23164B4200DB0D3A /* Assets.xcassets */,
@@ -180,6 +183,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C7817CB02341024C00C35D88 /* StarData.csv in Resources */,
 				1C5D2F4223164B4200DB0D3A /* LaunchScreen.storyboard in Resources */,
 				1C4D93E023179F3500D3B5CD /* art.scnassets in Resources */,
 				1C5D2F3F23164B4200DB0D3A /* Assets.xcassets in Resources */,
